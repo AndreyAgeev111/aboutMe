@@ -17,11 +17,10 @@
     background-color: #343434;
 }
 .context img {
-    position: absolute;
     width: 400px;
     height: 300px;
-    margin-left: 15%;
-    margin-top: 4%;
+    margin-left: 30%;
+    margin-top: 8%;
 }
 .me h1 {
     text-align: center;
