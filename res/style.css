@@ -17,6 +17,11 @@
     width: 100%;
     background-color: #343434;
 }
+#me {
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 5%;
+}
 .job {
     margin-top: 100px;
     height: 500px;
@@ -34,7 +39,6 @@
     height: 500px;
     width: 100%;
     background-color: #343434;
-
 }
 .footer {
     position: fixed;
