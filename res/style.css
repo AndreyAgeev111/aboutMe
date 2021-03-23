@@ -29,6 +29,12 @@
     width: 100%;
     background-color: #343434;
 }
+.contacts {
+    margin-top: 100px;
+    height: 500px;
+    width: 100%;
+    background-color: #343434;
+}
 .footer {
     position: fixed;
     bottom: 0;
