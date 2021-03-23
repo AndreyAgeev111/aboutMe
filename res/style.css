@@ -12,16 +12,16 @@
     margin-left: 5%;
 }
 .me{
-    margin-top: 100px;
     height: 500px;
     width: 100%;
     background-color: #343434;
 }
-#me {
-    width: 20%;
-    margin-left: 40%;
+.me img {
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    margin-left: 20%;
     margin-top: 5%;
-
 }
 .job {
     margin-top: 100px;
