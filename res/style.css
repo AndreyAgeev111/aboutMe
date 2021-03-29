@@ -40,8 +40,20 @@
     width: 100%;
     background-color: #343434;
 }
+.job h1, h2 {
+    text-align: center;
+    color: white;
+    padding: 1%;
+}
+.job p {
+    margin-top: 3%;
+    text-align: justify;
+    width: 60%;
+    margin-left: 20%;
+    color: white;
+}
 .projects {
-    height: 500px;
+    height: 650px;
     width: 100%;
     background-color: #343434;
     text-align: center;
@@ -59,7 +71,6 @@
     color: black;
 }
 .contacts {
-    margin-top: 100px;
     height: 500px;
     width: 100%;
     background-color: #343434;
