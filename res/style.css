@@ -80,8 +80,14 @@
     background-color: #343434;
     color: white;
 }
-.contacts h1 {
+.contacts h1, a, p {
     text-align: center;
+}
+.infoAbout {
+    margin-top: 4%;
+}
+.infoAbout p {
+    color: white;
 }
 .footer {
     position: fixed;

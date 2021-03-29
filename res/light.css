@@ -80,6 +80,15 @@
     background-color: white;
     color: black;
 }
+.contacts h1, a, p {
+    text-align: center;
+}
+.infoAbout {
+    margin-top: 4%;
+}
+.infoAbout p {
+    color: black;
+}
 .footer {
     position: fixed;
     bottom: 0;
