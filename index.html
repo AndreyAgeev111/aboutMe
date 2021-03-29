@@ -5,8 +5,9 @@
     <title>Обо мне</title>
     <link rel="icon" href="res/virtual_reality_vr_icon_176910.png">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="res/style.css">
+    <link rel="stylesheet" type="text/css" href="res/style.css" id="theme-link">
     <script src="js/bootstrap.bundle.js"></script>
+    <script src="js/ChangeTheme.js"></script>
 </head>
 <body>
     <header class="header">
@@ -27,6 +28,7 @@
                 </ul>
             </li>
             <ul class="navbar-nav navbar-collapse justify-content-end">
+                <button type="button" class="btn btn-light" id="theme-button" onclick="ChangeTheme()">Сменить тему</button>
                 <a href="https://vk.com/ex6sted" class="nav-link active" target="_blank">vk</a>
                 <a href="https://github.com/AndreyAgeev111" class="nav-link active" target="_blank">github</a>
                 <a href="https://www.instagram.com/baristorusi/" class="nav-link active" target="_blank">inst</a>
