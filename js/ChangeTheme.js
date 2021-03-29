@@ -1,9 +1,9 @@
 const btn = document.getElementById("theme-button");
 const link = document.getElementById("theme-link");
 
-btn.addEventListener("click", function () { ChangeTheme(); });
+btn.addEventListener("click", function () { changeTheme(); });
 
-function ChangeTheme()
+function changeTheme()
 {
     let lightTheme = "res/light.css";
     let darkTheme = "res/style.css";

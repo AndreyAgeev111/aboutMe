@@ -78,6 +78,7 @@
     height: 500px;
     width: 100%;
     background-color: white;
+    color: black;
 }
 .footer {
     position: fixed;
