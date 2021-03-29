@@ -35,6 +35,7 @@
     float: left;
     width: 50%;
 }
+
 .job {
     height: 500px;
     width: 100%;
@@ -51,6 +52,9 @@
     width: 60%;
     margin-left: 20%;
     color: white;
+}
+.job a {
+    margin-left: 35%;
 }
 .projects {
     height: 650px;
