@@ -37,16 +37,18 @@
     width: 50%;
 }
 .job {
-    margin-top: 100px;
     height: 500px;
     width: 100%;
     background-color: #343434;
 }
 .projects {
-    margin-top: 100px;
     height: 500px;
     width: 100%;
     background-color: #343434;
+    text-align: center;
+}
+.carousel-item h5, p {
+    color: black;
 }
 .contacts {
     margin-top: 100px;
